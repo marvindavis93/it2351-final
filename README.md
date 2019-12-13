@@ -33,7 +33,7 @@ I would create a trigger that throws exception if list price of product updated 
 MySQL CERTS
 
 
-diploma itself is the most important credential that we can use to find a job. Especially if diploma is specialized in database fields. But to increase the chance of being hired in respective companies, one can take certificates. Now owner of MySQL is Oracle. Oracle has a big reputation. That’s why taking database expert certificate from Oracle increases the probability of finding a good job place.
+The diploma itself is the most important credential that we can use to find a job. Especially if diploma is specialized in database fields. But to increase the chance of being hired in respective companies, one can take certificates. Now owner of MySQL is Oracle. Oracle has a big reputation. That’s why taking database expert certificate from Oracle increases the probability of finding a good job place.
 There two types of certifications for MySQL:
 •	Database Administration
 •	Database Developer
